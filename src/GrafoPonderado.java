@@ -20,4 +20,6 @@ public class GrafoPonderado {
 	}
 	
 	public int getSize(){return size;}
+	
+	public int [][] getM(){return m;}
 }
